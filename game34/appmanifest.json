@@ -1,0 +1,11 @@
+{
+	"name": "Brain Test 4 Tricky Friends",
+	"short_name": "Brain Test 4 Tricky Friends",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "any",
+	"background_color": "#ffffff",
+	"icons": [],
+	"screenshots": []
+}
