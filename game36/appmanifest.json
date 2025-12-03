@@ -1,0 +1,11 @@
+{
+	"name": "BrainTest3",
+	"short_name": "BrainTest3",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [],
+	"screenshots": []
+}
